@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('https://placeimg.com/1400/988/tech') no-repeat top center ;
+  background: url('images/rsz_my-keyboard-1241023.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -161,6 +161,7 @@ a.linkedin {
 }
 a.github {
   background-image: url(images/github.svg);
+  
 }
 a.social:hover {
   opacity: 1;
